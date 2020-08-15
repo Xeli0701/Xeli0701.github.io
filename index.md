@@ -1,6 +1,6 @@
 # About
 - このページはポートフォリオ作成のテストです。
-- GitHub Pagesを使い、Jekyll
+- GitHub Pagesを使い、Jekyllを用いて速攻で作っています。
 
 ## Profile
 - Xeli(エクセリ)
