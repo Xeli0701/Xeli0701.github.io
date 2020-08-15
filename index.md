@@ -30,7 +30,7 @@
 - [Qiita](https://qiita.com/Xeli/lgtms)
 
 ## Twitter
-<a class="twitter-timeline" data-width="300" data-height="400" data-theme="dark" href="https://twitter.com/Xeli0701?ref_src=twsrc%5Etfw"　data-chrome="noheader nofooter">Tweets by Xeli0701</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="300" data-height="400" data-theme="dark" href="https://twitter.com/Xeli0701?ref_src=twsrc%5Etfw" data-chrome="noheader nofooter">Tweets by Xeli0701</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contact
 TwitterのDMなどでご連絡下さい。
