@@ -21,7 +21,8 @@
 - TOEIC 775点(2018年12月)
 
 ## Products
-- 作成中
+- [いいところ診断ゲーム](https://xeli0701.github.io/assessment/assessment.html)
+-- N予備校の課題で作った、名前占い的なゲーム。 JavaScriptで動作。
 
 ## Accounts
 - [Twitter](https://twitter.com/Xeli0701)
