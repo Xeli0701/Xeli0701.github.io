@@ -23,6 +23,9 @@
 ## Products
 - [いいところ診断ゲーム](https://xeli0701.github.io/assessment/assessment.html)
   - N予備校の課題で作った、名前占い的なゲーム。 JavaScriptで動作。
+- Xeliの文字
+  - <iframe src="https://www.openprocessing.org/sketch/946205/embed/" width="400" height="300"></iframe>
+  - Open Prosessing のクリエイティブコーディングをちょっとだけ試しにやってみたもの
 
 ## Accounts
 - [Twitter](https://twitter.com/Xeli0701)
