@@ -1,6 +1,6 @@
 [Back](https://xeli0701.github.io/)
 
-#Creative Coding
+# Xeli Creative Coding
 
 <iframe src="https://www.openprocessing.org/sketch/946205/embed/" width="800" height="600"></iframe>
 - Open Prosessing のクリエイティブコーディングをちょっとだけ試しにやってみたもの
