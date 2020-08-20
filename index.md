@@ -1,3 +1,7 @@
+---
+title: Xeli Portphorio
+---
+
 # About
 - このページはポートフォリオ作成のテストです。
 - GitHub Pagesを使い、Jekyllを用いて速攻で作っています。
